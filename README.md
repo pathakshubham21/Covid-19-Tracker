@@ -1,6 +1,4 @@
-Application URL: 
-
-.
+Application URL: https://covid-tracker-6aa36.web.app/
 
 ## Available Scripts
 
